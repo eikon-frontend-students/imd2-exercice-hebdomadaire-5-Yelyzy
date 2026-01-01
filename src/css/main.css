@@ -12,3 +12,16 @@ img,
 video {
   display: block;
 }
+
+body {
+  display: flex;
+  padding: 50px;
+}
+
+.wrapper {
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  border-radius: 20px;
+  background: #ff844c;
+}
